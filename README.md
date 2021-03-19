@@ -32,7 +32,7 @@ SMS Messages sent through Vonage API will be sent to Google Cloud Translation AP
 ### SMS with Firebase Functions
 SMS Messages sent through Vonage API will be sent to Google Cloud Translation API and the translation returned to the console.
 
-[JavaScript](firebase/JavaScript/send-recieve-sms)
+[JavaScript](firebase/JavaScript/)
 
 ### SMS Sentiment Analysis with Google Natural Language API
 SMS Messages sent through Vonage API will be sent to Google Natural Language API and a series of scores and tones returned to the console.
